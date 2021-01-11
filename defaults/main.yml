@@ -1,7 +1,7 @@
 ---
-win2016stig_cat1_patch: yes
-win2016stig_cat2_patch: yes
-win2016stig_cat3_patch: yes
+win2016stig_cat1_patch: no
+win2016stig_cat2_patch: no
+win2016stig_cat3_patch: no
 
 win2016stig_min_ansible_version: "2.6"
 
@@ -58,8 +58,8 @@ wn16_cc_000250: true
 wn16_cc_000260: true
 wn16_cc_000270: true
 wn16_cc_000460: true
-wn16_cc_000500: true
-wn16_cc_000530: true
+wn16_cc_000500: false
+wn16_cc_000530: false
 wn16_dc_000290: true
 wn16_dc_000300: true
 wn16_so_000020: true
